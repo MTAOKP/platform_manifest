@@ -253,6 +253,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
+  <project path="kernel/motorola/triumph" name="MTCM9/android_kernel_motorola_triumph" remote="aokp" revision="ics" />
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
